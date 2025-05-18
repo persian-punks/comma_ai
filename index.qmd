@@ -326,16 +326,17 @@ save_frame_range(full_vid_path + '/trip_part_3.mp4', 0, 200000,
 # for image in image_dir: print(image)         
 ```
 
-## College Station Trip: Part 1/4
+## Random Commute
+{{< video data/vid-full/trip_part_1.mp4 >}}
 {{< video data/vid-full/trip_part_1.mp4 >}}
 
 ## Notable Images From Part 1/4
 ::: {layout-nrow=2}
-![College Station](data/route-images/part1_video_img_frame_002500.png)
+![Frame 1](data/route-images/part1_video_img_frame_02500.png)
 
-![Country Road](data/route-images/part3_video_img_frame_10000.png)
+![Frame 2](data/route-images/part3_video_img_frame_10000.png)
 
-![Traffic Light](data/route-images/part1_video_img_frame_010000.png)
+![Frame 3](data/route-images/part2_video_img_frame_17500.png)
 :::
 
 ## Plotting Images 
