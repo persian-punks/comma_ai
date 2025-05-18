@@ -1,6 +1,14 @@
 project:
+  type: website
   title: "Comma_api_tutorial"
   output-dir: docs
+
+format:
+  html:
+    theme: cyborg
+    highlight: zenburn
+    css: styles.css
+    toc: FALSE
 
 
 
