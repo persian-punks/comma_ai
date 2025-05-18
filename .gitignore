@@ -174,3 +174,8 @@ cython_debug/
 .pypirc
 
 /.quarto/
+
+data/route-data/
+data/vid-files/
+data/vid-mp4/
+data/vid-urls
