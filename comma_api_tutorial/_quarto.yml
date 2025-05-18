@@ -1,5 +1,6 @@
 project:
   title: "Comma_api_tutorial"
+  output-dir: docs
 
 
 
